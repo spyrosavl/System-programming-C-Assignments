@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="hw2" targetName="hw2" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8d58035b-6923-4ac6-b244-02f1e37be2f9" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="stats.sh" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/stats.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="522">
+              <caret line="29" column="76" lean-forward="false" selection-start-line="29" selection-start-column="76" selection-end-line="29" selection-end-column="76" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>puts</find>
+      <find>exists</find>
+      <find>printf</find>
+      <find>search</find>
+      <find>query</find>
+      <find>dir_paths</find>
+      <find>delete</find>
+      <find>workers_pids</find>
+      <find>result_string</find>
+      <find>Musical</find>
+      <find>West End to honour finest shows  The West End is honouring its finest stars and shows at the Evening Standard Theatre Awards in London on Monday.  The Producers, starring Nathan Lane and Lee Evans, is up for best musical at the ceremony at the National Theatre. It is competing against Sweeney Todd and A Funny Thing Happened on the Way to the Forum for the award. The Goat or Who is Sylvia? by Edward Albee, The Pillowman by Martin McDonagh and Alan Bennett's The History Boys are shortlisted in the best play category.  Pam Ferris, Victoria Hamilton and Kelly Reilly are nominated for best actress. Ferris - best known for her television roles in programmes such as The Darling Buds of May - has made the shortlist for her role in Notes on Falling Leaves, at the Royal Court Theatre. Meanwhile, Richard Griffiths, who plays Hector in The History Boys at the National Theatre, will battle it out for the best actor award with Douglas Hodge (Dumb Show) and Stanley Townsend (Shining City). The best director shortlist includes Luc Bondy for Cruel and Tender, Simon McBurney for Measure for Measure, and Rufus Norris for Festen.  Festen is also shortlisted in the best designer category where Ian MacNeil, Jean Kalman and Paul Arditti will be up against Hildegard Bechtler, for Iphigenia at Aulis, and Paul Brown, for False Servant. The Milton Shulman Award for outstanding newcomer will be presented to Dominic Cooper (His Dark Materials and The History Boys), Romola Garai (Calico), Eddie Redmayne (The Goat, or Who is Sylvia?) or Ben Wishaw (Hamlet). And playwrights David Eldridge, Rebecca Lenkiewicz and Owen McCafferty will fight it out for The Charles Win</find>
+      <find>malloc</find>
+      <find>musical</find>
+      <find>jobExecutor: data read error</find>
+      <find>jobExecutor</find>
+      <find>write_to_pipe</find>
+      <find>total_chars</find>
+      <find>total_words</find>
+      <find>dsfjkdsfkjbfdsbkjdfkbdbjkjbkdfs</find>
+      <find>find_word_appearance</find>
+      <find>result</find>
+      <find>Results</find>
+      <find>total_lines</find>
+      <find>it</find>
+      <find>w</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/worker_main.h" />
+        <option value="$PROJECT_DIR$/Trie.h" />
+        <option value="$PROJECT_DIR$/List.h" />
+        <option value="$PROJECT_DIR$/List.cpp" />
+        <option value="$PROJECT_DIR$/executor_fifos.h" />
+        <option value="$PROJECT_DIR$/main.h" />
+        <option value="$PROJECT_DIR$/Makefile" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/datasets/d5/input.txt" />
+        <option value="$PROJECT_DIR$/Trie.cpp" />
+        <option value="$PROJECT_DIR$/docfile" />
+        <option value="$PROJECT_DIR$/worker_fifos.h" />
+        <option value="$PROJECT_DIR$/jobExecutor_main.cpp" />
+        <option value="$PROJECT_DIR$/worker_main.cpp" />
+        <option value="$PROJECT_DIR$/stats.sh" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="67" />
+    <option name="y" value="25" />
+    <option name="width" value="1853" />
+    <option name="height" value="1055" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="hw2" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
+              <item name="hw2" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.hw2">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="hw2" RUN_TARGET_NAME="hw2" EXPLICIT_BUILD_TARGET_NAME="all">
+      <envs />
+    </configuration>
+    <configuration name="hw2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hw2" TARGET_NAME="hw2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="hw2" RUN_TARGET_NAME="hw2">
+      <envs />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Application.Build All" />
+      <item index="1" class="java.lang.String" itemvalue="Application.hw2" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8d58035b-6923-4ac6-b244-02f1e37be2f9" name="Default" comment="" />
+      <created>1522844846447</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1522844846447</updated>
+      <workItem from="1522844847701" duration="6483000" />
+      <workItem from="1522924008282" duration="63000" />
+      <workItem from="1522955937169" duration="6186000" />
+      <workItem from="1523006243678" duration="3579000" />
+      <workItem from="1523361010872" duration="155000" />
+      <workItem from="1523361170006" duration="11791000" />
+      <workItem from="1523532298889" duration="972000" />
+      <workItem from="1523533424033" duration="816000" />
+      <workItem from="1523545561594" duration="3565000" />
+      <workItem from="1523625269724" duration="7643000" />
+      <workItem from="1523981801044" duration="3162000" />
+      <workItem from="1524232778180" duration="8792000" />
+      <workItem from="1524302289793" duration="356000" />
+      <workItem from="1524307609966" duration="1891000" />
+      <workItem from="1524330262096" duration="13408000" />
+      <workItem from="1524420567232" duration="1469000" />
+      <workItem from="1524494601207" duration="3193000" />
+      <workItem from="1524511145784" duration="2275000" />
+      <workItem from="1524575895595" duration="10144000" />
+      <workItem from="1524662816614" duration="2664000" />
+      <workItem from="1524928316584" duration="20000" />
+      <workItem from="1527163640070" duration="117000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="88744000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16459794" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="CMake" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32982087" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32982087" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/log/Worker_18105.txt" />
+    <entry file="file://$PROJECT_DIR$/log/Worker_18106.txt" />
+    <entry file="file://$PROJECT_DIR$/log/Worker_18170.txt" />
+    <entry file="file://$PROJECT_DIR$/log/Worker_18171.txt" />
+    <entry file="file://$PROJECT_DIR$/log/Worker_18172.txt" />
+    <entry file="file://$PROJECT_DIR$/log/Worker_18173.txt" />
+    <entry file="file://$PROJECT_DIR$/log/Worker_18104.txt" />
+    <entry file="file://$PROJECT_DIR$/log/Worker_18283.txt" />
+    <entry file="file://$PROJECT_DIR$/log/Worker_18575.txt" />
+    <entry file="file://$PROJECT_DIR$/log/Worker_18691.txt" />
+    <entry file="file://$PROJECT_DIR$/log/Worker_18690.txt" />
+    <entry file="file://$PROJECT_DIR$/logfile" />
+    <entry file="file://$PROJECT_DIR$/log/Worker_19088.txt" />
+    <entry file="file://$PROJECT_DIR$/log/Worker_19087.txt" />
+    <entry file="file://$PROJECT_DIR$/log/Worker_19112.txt" />
+    <entry file="file://$PROJECT_DIR$/log/Worker_19111.txt" />
+    <entry file="file://$PROJECT_DIR$/log/Worker_19141.txt" />
+    <entry file="file://$PROJECT_DIR$/log/Worker_19142.txt" />
+    <entry file="file://$PROJECT_DIR$/log/Worker_19185.txt" />
+    <entry file="file://$PROJECT_DIR$/log/Worker_19184.txt" />
+    <entry file="file://$PROJECT_DIR$/log/Worker_19230.txt" />
+    <entry file="file://$PROJECT_DIR$/log/Worker_19229.txt" />
+    <entry file="file://$PROJECT_DIR$/log/Worker_19228.txt" />
+    <entry file="file://$PROJECT_DIR$/log/Worker_19643.txt" />
+    <entry file="file://$PROJECT_DIR$/log/Worker_19642.txt" />
+    <entry file="file://$PROJECT_DIR$/log/Worker_19641.txt" />
+    <entry file="file://$PROJECT_DIR$/log/Worker_19644.txt" />
+    <entry file="file://$PROJECT_DIR$/Makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="28" lean-forward="true" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/Worker_22850.txt" />
+    <entry file="file://$PROJECT_DIR$/log/Worker_22849.txt" />
+    <entry file="file://$PROJECT_DIR$/log/Worker_22848.txt" />
+    <entry file="file://$PROJECT_DIR$/log/Worker_22847.txt" />
+    <entry file="file://$PROJECT_DIR$/log/Worker_22851.txt" />
+    <entry file="file://$PROJECT_DIR$/datasets/d1/Entertainment.txt" />
+    <entry file="file://$PROJECT_DIR$/log/Worker_23373.txt" />
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/List.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1364">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datasets/d5/Entertainment.txt" />
+    <entry file="file://$PROJECT_DIR$/List.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datasets/d5/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="49" lean-forward="false" selection-start-line="1" selection-start-column="47" selection-end-line="1" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Trie.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="72" column="5" lean-forward="false" selection-start-line="72" selection-start-column="5" selection-end-line="72" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/executor_fifos.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-331">
+          <caret line="11" column="25" lean-forward="false" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worker_fifos.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="670">
+          <caret line="50" column="0" lean-forward="false" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jobExecutor_main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="106" column="32" lean-forward="true" selection-start-line="106" selection-start-column="32" selection-end-line="106" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/Worker_3722.txt" />
+    <entry file="file://$PROJECT_DIR$/log/Worker_3657.txt" />
+    <entry file="file://$PROJECT_DIR$/log/Worker_3581.txt" />
+    <entry file="file://$PROJECT_DIR$/log/Worker_3723.txt" />
+    <entry file="file://$PROJECT_DIR$/worker_main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="25" column="34" lean-forward="false" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stats.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="29" column="76" lean-forward="false" selection-start-line="29" selection-start-column="76" selection-end-line="29" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
